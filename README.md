@@ -41,7 +41,7 @@ Administro bases de datos y construyo consultas y reportes para sistemas de gest
 
 ---
 
-![Lenguajes más usados](![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+(![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=databricks&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
