@@ -55,6 +55,9 @@ Dashboard interactivo que consolida vulnerabilidades CVE y permite filtrarlas y 
 **[finanzgpt-asistente-financiero](https://github.com/johansrojas-data/finanzgpt-asistente-financiero)** · `Python` `NLP`
 Asistente que interpreta indicadores financieros de una empresa y genera recomendaciones en lenguaje natural.
 
+**[sistema-interactivo-kinect](https://github.com/johansrojas-data/sistema-interactivo-kinect)** · `Python` `OpenCV` `MediaPipe` `EasyOCR`
+Interfaz sin contacto que traduce gestos de la mano en acciones: dibujo en el aire, reconocimiento de texto por OCR y respuesta hablada. Incluye control de una mano robótica por puerto serial y arquitectura modular de 13 componentes.
+
 **[genetic-algorithm-library](https://github.com/johansrojas-data/genetic-algorithm-library)** · `Python`
 Librería de algoritmos genéticos adaptativos para problemas de optimización. Trabajo conjunto con Julián Lara en la Universidad de Cundinamarca.
 
